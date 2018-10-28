@@ -1,0 +1,33 @@
+{
+    "events":
+    [
+        {
+            "id":1,
+            "name":"Event 1",
+            "date":"23-Oct-2018",
+            "desc":"Lorem Ipsum Dolor Sit Amet",
+            "venue":"TT Gallery 1"
+        },
+        {
+            "id":"2",
+            "name":"Event 2",
+            "date":"12-Nov-2018",
+            "desc":"Lorem Lorem",
+            "venue":"TT"
+        },
+        {
+            "id":"3",
+            "name":"Event 3",
+            "date":"24-Oct-2018",
+            "desc":"Lorem Event 3",
+            "venue":"SJT"
+        },
+        {
+            "id":"4",
+            "name":"Event 4",
+            "date":"24-Nov-2018",
+            "desc":"Lorem Event 4",
+            "venue":"SMV"
+        }
+    ]
+}
